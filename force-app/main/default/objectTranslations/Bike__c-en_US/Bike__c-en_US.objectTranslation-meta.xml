@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Bike</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Bikes</value>
+    </caseValues>
+    <layouts>
+        <layout>Bike Layout</layout>
+        <sections>
+            <label></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>March21</layout>
+        <sections>
+            <label></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Fields</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>My layout</layout>
+        <sections>
+            <label></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <quickActions>
+        <label></label>
+        <name>New</name>
+    </quickActions>
+    <quickActions>
+        <label></label>
+        <name>march23</name>
+    </quickActions>
+    <quickActions>
+        <label></label>
+        <name>update_a_record</name>
+    </quickActions>
+    <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage></errorMessage>
+        <name>Bike_Name_Validation</name>
+    </validationRules>
+    <webLinks>
+        <label></label>
+        <name>march21</name>
+    </webLinks>
+    <webLinks>
+        <label></label>
+        <name>march211</name>
+    </webLinks>
+    <webLinks>
+        <label></label>
+        <name>march22</name>
+    </webLinks>
+</CustomObjectTranslation>

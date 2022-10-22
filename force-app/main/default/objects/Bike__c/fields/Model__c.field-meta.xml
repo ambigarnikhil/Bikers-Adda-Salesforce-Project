@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Model__c</fullName>
+    <externalId>false</externalId>
+    <label>Model</label>
+    <required>true</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <controllingField>Brand__c</controllingField>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>PULSAR 220F</fullName>
+                <default>false</default>
+                <label>PULSAR 220F</label>
+            </value>
+            <value>
+                <fullName>PULSAR RS200</fullName>
+                <default>false</default>
+                <label>PULSAR RS200</label>
+            </value>
+            <value>
+                <fullName>PULSAR NS200</fullName>
+                <default>false</default>
+                <label>PULSAR NS200</label>
+            </value>
+            <value>
+                <fullName>NINJA 300</fullName>
+                <default>false</default>
+                <label>NINJA 300</label>
+            </value>
+            <value>
+                <fullName>NINJA Z800</fullName>
+                <default>false</default>
+                <label>NINJA Z800</label>
+            </value>
+            <value>
+                <fullName>NINJA Z900</fullName>
+                <default>false</default>
+                <label>NINJA Z900</label>
+            </value>
+            <value>
+                <fullName>R15 V3</fullName>
+                <default>false</default>
+                <label>R15 V3</label>
+            </value>
+            <value>
+                <fullName>R15 V4</fullName>
+                <default>false</default>
+                <label>R15 V4</label>
+            </value>
+            <value>
+                <fullName>FZ 25</fullName>
+                <default>false</default>
+                <label>FZ 25</label>
+            </value>
+            <value>
+                <fullName>RC 200</fullName>
+                <default>false</default>
+                <label>RC 200</label>
+            </value>
+            <value>
+                <fullName>RC 125</fullName>
+                <default>false</default>
+                <label>RC 125</label>
+            </value>
+            <value>
+                <fullName>RC 390</fullName>
+                <default>false</default>
+                <label>RC 390</label>
+            </value>
+            <value>
+                <fullName>DUKE 250</fullName>
+                <default>false</default>
+                <label>DUKE 250</label>
+            </value>
+            <value>
+                <fullName>APACHE RR 310</fullName>
+                <default>false</default>
+                <label>APACHE RR 310</label>
+            </value>
+            <value>
+                <fullName>BULLET 350</fullName>
+                <default>false</default>
+                <label>BULLET 350</label>
+            </value>
+            <value>
+                <fullName>CONTINENTAL GT 650</fullName>
+                <default>false</default>
+                <label>CONTINENTAL GT 650</label>
+            </value>
+            <value>
+                <fullName>VITPILEN 251</fullName>
+                <default>false</default>
+                <label>VITPILEN 251</label>
+            </value>
+            <value>
+                <fullName>VITPILEN 401</fullName>
+                <default>false</default>
+                <label>VITPILEN 401</label>
+            </value>
+        </valueSetDefinition>
+        <valueSettings>
+            <controllingFieldValue>TVS</controllingFieldValue>
+            <valueName>APACHE RR 310</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>KTM</controllingFieldValue>
+            <valueName>RC 200</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>KTM</controllingFieldValue>
+            <valueName>RC 125</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>KTM</controllingFieldValue>
+            <valueName>RC 390</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>KTM</controllingFieldValue>
+            <valueName>DUKE 250</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>KAWASAKI</controllingFieldValue>
+            <valueName>NINJA 300</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>KAWASAKI</controllingFieldValue>
+            <valueName>NINJA Z800</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>KAWASAKI</controllingFieldValue>
+            <valueName>NINJA Z900</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>HUSQVARNA</controllingFieldValue>
+            <valueName>VITPILEN 251</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>HUSQVARNA</controllingFieldValue>
+            <valueName>VITPILEN 401</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>ROYAL ENFIELD</controllingFieldValue>
+            <valueName>BULLET 350</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>ROYAL ENFIELD</controllingFieldValue>
+            <valueName>CONTINENTAL GT 650</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>YAMAHA</controllingFieldValue>
+            <valueName>R15 V3</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>YAMAHA</controllingFieldValue>
+            <valueName>R15 V4</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>YAMAHA</controllingFieldValue>
+            <valueName>FZ 25</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>BAJAJ</controllingFieldValue>
+            <valueName>PULSAR 220F</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>BAJAJ</controllingFieldValue>
+            <valueName>PULSAR RS200</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>BAJAJ</controllingFieldValue>
+            <valueName>PULSAR NS200</valueName>
+        </valueSettings>
+    </valueSet>
+</CustomField>

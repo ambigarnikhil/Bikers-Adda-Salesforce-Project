@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <brand>
+        <headerColor>#0070D2</headerColor>
+        <logo>X2resize</logo>
+        <logoVersion>1</logoVersion>
+        <shouldOverrideOrgTheme>true</shouldOverrideOrgTheme>
+    </brand>
+    <description>I created this app just to revise the steps.</description>
+    <formFactors>Small</formFactors>
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <isNavTabPersistenceDisabled>false</isNavTabPersistenceDisabled>
+    <label>March21</label>
+    <navType>Standard</navType>
+    <tabs>standard-AppLauncher</tabs>
+    <tabs>standard-Account</tabs>
+    <tabs>Bike__c</tabs>
+    <tabs>Biker_Account__c</tabs>
+    <uiType>Lightning</uiType>
+    <utilityBar>March21_UtilityBar</utilityBar>
+</CustomApplication>

@@ -1,0 +1,17 @@
+<apex:page standardController="Biker_Account__c">
+    <apex:form >
+    <apex:pageBlock title="New Biker Account">
+        <apex:pageBlockButtons >
+            <apex:commandButton value="Save" action="{!save}" />    
+    		<apex:commandButton value="Cancel" action="{!cancel}"/>
+        </apex:pageBlockButtons>
+        <apex:pageBlockSection title="Information" columns="1" collapsible="false" >
+            <apex:inputField value="{!Biker_Account__c.Name}"/>
+            <apex:inputField value="{!Biker_Account__c.Email__c}"/>
+            <apex:inputField value="{!Biker_Account__c.Phone_No__c}"/>
+            <apex:inputField value="{!Biker_Account__c.Bike__c}"/>
+            <apex:inputField value="{!Biker_Account__c.User_Name__c}"/>
+        </apex:pageBlockSection>
+    </apex:pageBlock>
+    </apex:form>
+</apex:page>
